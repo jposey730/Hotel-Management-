@@ -1,2 +1,2 @@
 # Hotel-Management-
-A hotel management POS system that was built for a software engineering class
+A hotel management POS system that was built for a software engineering class. JAVA
