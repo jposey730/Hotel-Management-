@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/HMS/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/jposey730/.Trash/jdatepicker-1.3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/jposey730/Desktop/rs2xml.jar"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 195043.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 290056.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 293099.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 351544.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 351682.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 387193.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 399892.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 437193.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 450424.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 482070.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 494742.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 559334.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 571975.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 660045.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 67149.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 771740.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 781.crdownload"/>
+	<classpathentry kind="lib" path="/HMS/Sources/Unconfirmed 884408.crdownload"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
